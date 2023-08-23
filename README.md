@@ -32,3 +32,7 @@ function findLongestWordLength(str) {
 
 console.log(findLongestWordLength(quick));
 ```
+
+This is an image of the final result of the implementation portion of the interview.
+
+![image](https://github.com/AustinPoulson/KigoInterview/assets/58403188/9cbeed14-beab-4bd1-b11f-c90954b988d4)
